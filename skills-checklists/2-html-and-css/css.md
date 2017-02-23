@@ -27,7 +27,7 @@
 - [ ] Write width and height properties
 - [ ] Write margin and padding style properties
 - [ ] Write border style properties
-- [ ] Write display style properties
+- [ ] Write display style properties (`block`, `inline`, `inline-block`)
 - [ ] Change box sizing
 
 ### CSS Layout

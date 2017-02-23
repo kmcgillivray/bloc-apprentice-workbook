@@ -1,18 +1,12 @@
 # Module 2 Review Questions and Exercises
 
-## HTML
+## Instructions
 
-### Questions
+1. Click "edit" at the top of the page.
+2. Fill in your answers below each question.
+3. Save your changes and send a link to your mentor!
 
-1. What is the difference between an ID and a class?
-2. What does it mean to write "semantic" HTML?
-
-### Exercises
-
-1. Write an HTML image tag to show an image called `profile-picture.jpg`.
-2. Write a link tag that links to http://google.com.
-3. Write the appropriate tag to link an HTML file to a script file called `main.js`.
-4. Write an complete standard HTML document outline (including a DOCTYPE, and `<html>`, `<head>`, and `<body>` tags).
+*Note: any topics from the first assessment should be reviewed in addition to the questions below!*
 
 ## CSS
 
@@ -22,7 +16,26 @@
 2. What is the difference between block and inline elements?
 3. What is responsive design?
 4. Which selector is more specific, a tag selector or class selector?
-5. Which text would be red in the following example?
+5. What does `box-sizing` do?
+6. What's the difference between `relative` and `absolute` positioning?
+
+### Exercises
+
+1. Write a CSS rule to turn the background color of the link with the `.btn` class blue on hover:
+
+  ```html
+  <a href="#" class="btn">Learn more</a>
+  ```
+
+2. Write a CSS rule to give the `.container` a maximum width of `980px` when the browser window is wider than `1200px`:
+
+  ```html
+  <div class="container">
+    <h1>I'm a heading!</h1>
+  </div>
+  ```
+
+3. Which text would be red in the following example?
 
   ```html
   <style>
@@ -43,43 +56,18 @@
   </section>
   ```
 
-### Exercises
-
-1. Write a CSS rule to turn the background color of the link with the `.btn` class blue on hover:
-
-  ```html
-  <a href="#" class="btn">Learn more</a>
-  ```
-
-2. Write a CSS rule to give the `.container` a maximum width of `980px` when the browser window is wider than `1200px`:
-
-  ```html
-  <div class="container">
-    <h1>I'm a heading!</h1>
-  </div>
-  ```
+4. Open this [JSBin](http://jsbin.com/qigiwuhepe/1/edit?html,css,output). Write a CSS rule using floats to make the HTML sample into a four column layout. Paste your udpated link below.
 
 ## JavaScript
 
 ### Questions
 
-1. What is the difference between global and local scope variables?
-2. What is the difference between `==` and `===`?
-3. What would the following log to the console?
-
-  ```javascript
-  console.log(5 === "5");
-  ```
-
-4. What is a callback?
-5. What is an object?
-6. What is a function?
+1. What is a callback?
 
 ### Exercises
 
-1. Write a function `findLongestWord()` that takes an array of words and returns the length of the longest one.
-2. Define a function `sum()` that sums all the numbers in an array of numbers. For example, `sum([1,2,3,4])` should return 10.
-3. Write a function that takes a character (i.e. a string of length 1) and returns true if it is a vowel, false otherwise.
+1. Write a function `filterLongWords()` that takes an array of words and an integer `num` and returns the array of words that are longer than `num`.
+2. Write a function `charFreq()` that takes a string and builds a frequency listing of the characters contained in it. Represent the frequency listing as a Javascript object. Try it with something like `charFreq("abbabcbdbabdbdbabababcbcbab")`.
 
 ## DOM Scripting
 
@@ -121,14 +109,15 @@
 
 ### Questions
 
-1. What is a controller?
-2. What is a view?
-3. What is a single page application?
+1. How is a framework different than a library?
+2. What is a controller?
+3. What is a view?
+4. What is a single page application?
+5. What is a directive in Angular?
 
 ## Git
 
-### Questions
+### Exercises
 
-1. What command creates a new local Git repository?
-2. What command would create a new branch?
-3. What command would merge a branch called `bug-fix` into the `master` branch?
+1. Write a command to create a new branch called `bug-fix`.
+2. If you're on the `master` branch, write a command to merge a branch called `bug-fix` into the `master` branch.

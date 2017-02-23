@@ -2,10 +2,9 @@
 
 ## Instructions
 
-1. Make a [GitHub account](http://github.com) if you don't have one.
-2. Click the "fork" button on the top right of the page.
-3. Fill in your answers below each question.
-4. Save your changes and send a link to your mentor!
+1. Click "edit" at the top of the page.
+2. Fill in your answers below each question.
+3. Save your changes and send a link to your mentor!
 
 ## HTML
 
