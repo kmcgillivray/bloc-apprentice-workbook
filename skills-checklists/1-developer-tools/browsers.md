@@ -2,5 +2,5 @@
 
 ## Skills
 
--[ ] Open the browser inspector
--[ ] Open the console
+- [ ] Open the browser inspector
+- [ ] Open the console

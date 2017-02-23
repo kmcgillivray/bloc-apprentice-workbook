@@ -4,5 +4,5 @@
 
 ## Skills
 
--[ ] Write pseudocode
--[ ] Trace data through a script
+- [ ] Write pseudocode
+- [ ] Trace data through a script
