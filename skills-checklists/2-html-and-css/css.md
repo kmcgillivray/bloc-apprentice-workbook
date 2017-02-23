@@ -15,12 +15,12 @@
 - [ ] Write a tag selector
 - [ ] Write class and ID selectors
 - [ ] Write nested tag, class, and ID selectors
+- [ ] Write CSS comments
 - [ ] Write color and background color style properties (hex, rgb, rgba)
 - [ ] Write font style properties (px, ems, rems)
 - [ ] Write pseudo-class selectors (`:hover`, `:focus`, `:active`, `:nth-child()`, `:last-child`, `:first-child`)
 - [ ] Use the universal selector
 - [ ] Write special selectors (`>`, `~`, `[attr]`)
-- [ ] Write CSS comments
 
 ### The Box Model
 

@@ -11,6 +11,7 @@
 
 - [ ] Write an element tag
 - [ ] Write an element tag with an attribute
+- [ ] Write HTML comments
 - [ ] Write typography tags
 - [ ] Write a link tag
 - [ ] Write an image tag
@@ -22,4 +23,3 @@
 - [ ] Use HTML5 tags semantically
 - [ ] Write tables
 - [ ] Write forms
-- [ ] Write HTML comments
