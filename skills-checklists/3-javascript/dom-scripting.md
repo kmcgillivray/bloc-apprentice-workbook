@@ -18,10 +18,13 @@
 - [ ] Update element text
 - [ ] Update element style
 - [ ] Update element class
+- [ ] Read, remove, and set element attributes (data/dataset)
 - [ ] Add markup with `document.write`
 - [ ] Add markup with `innerHTML`
-- [ ] Use `setTimeout` and `setInterval`
+- [ ] Add markup with `createElement`
+- [ ] Add markup with `appendChild`
 - [ ] Use `window.onload`
+- [ ] Use `setTimeout` and `setInterval`
 
 ### Events
 
