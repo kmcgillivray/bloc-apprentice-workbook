@@ -20,7 +20,6 @@
 - [ ] Create boolean data
 - [ ] Use numerical operations (`+ - / * %`)
 - [ ] Concatenate strings
-- [ ] Create an array
 - [ ] Log to the console
 
 ### Control Flow
@@ -43,15 +42,25 @@
 - [ ] Write a function with a callback
 - [ ] Write a function with a closure
 
-### Objects
+### Data Structures
+
+#### Arrays
+
+- [ ] Create an array
+- [ ] Access elements in an array by index
+- [ ] Loop through an array
+- [ ] Use array prototype methods (`push`, `pop`, `shift`, `unshift`, `splice`, etc.)
+
+#### Objects
 
 - [ ] Create an object with properties
 - [ ] Create an object with methods
 - [ ] Read an object's property
 - [ ] Update an object's property
 - [ ] Call an object's method
+- [ ] Use object prototype methods
 - [ ] Define an object constructor
 - [ ] Use an object constructor
 - [ ] Add methods to an object constructor prototype
 - [ ] Use `this`
-- [ ] Use built in objects (`Math`, `Date`)
+- [ ] Use global objects (`Math`, `Date`, etc.)
